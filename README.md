@@ -1,6 +1,7 @@
 ## Get started
 
-unzip the folder
+unzip the folder aws-mwaa-local-runner.zip
+
 ```bash
 cd aws-mwaa-local-runner
 ```
