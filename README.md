@@ -39,11 +39,5 @@ By default, the `bootstrap.sh` script creates a username and password for your l
 - Open the Apache Airlfow UI: <http://localhost:8080/>.
 
 
-Trigger the DAG tutorail to run the test
-
-### Credentials to S3 to check the files in S3 bucket:
-Link to the AWS console: https://162120721992.signin.aws.amazon.com/console
-
-username:checkS3
-
-password:Checkings3
+#### DAGS
+The code for the project is in the DAG named tutorial and the file path in the folder is dags/tutorial.py
