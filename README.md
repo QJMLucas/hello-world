@@ -40,4 +40,4 @@ By default, the `bootstrap.sh` script creates a username and password for your l
 
 
 #### DAGS
-The code for the project is in the DAG named tutorial and the file path in the folder is dags/tutorial.py
+The code for the project is in the DAG list named tutorial and the file path in the folder is dags/tutorial.py
